@@ -2,6 +2,9 @@
 
 I am a passionate about learning new things and problem-solving. 
 Focus on proposing solutions that add value to people, team-player, leadership spirit, innovating, and looking for new challenges.
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,mysql,docker,nginx,aws)](https://skillicons.dev)
 <!--
 **marcoaurelyo/marcoaurelyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
