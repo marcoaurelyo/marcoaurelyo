@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi, I'm Marco Aurelyo! 👋
 
+I am a passionate about learning new things and problem-solving. 
+Focus on proposing solutions that add value to people, team-player, leadership spirit, innovating, and looking for new challenges.
 <!--
 **marcoaurelyo/marcoaurelyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
